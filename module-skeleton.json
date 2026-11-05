@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-scheduling-flutter",
+  "capabilityKey": "liberusoftware/module-crm-scheduling",
+  "presentation": "mobile-flutter",
+  "package": "module_crm_scheduling_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/crm/nextjs/scheduling.md",
+  "presentationPlan": "projects/crm/flutter/scheduling.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
